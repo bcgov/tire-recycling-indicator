@@ -3,11 +3,12 @@
 
 # Trends in B.C. Scrap Tire Recycling through Industry-led Product Stewardship (1991-2011)
 
-An R script to populate an indicator on Trends in B.C. Scrap Tire Recycling through Industry-led Product Stewardship (1991-2011). This script reproduces the summary scrap tire plot published on [Environmental Reporting BC](http://www.env.gov.bc.ca/soe/indicators/sustainability/tire-recycling.html) in November 2012.
+An R script to populate an indicator on Trends in B.C. Scrap Tire Recycling through Industry-led Product Stewardship (1991-2011). This script reproduces the summary scrap tire plot published on [Environmental Reporting BC](http://www.env.gov.bc.ca/soe/indicators/sustainability/tire-recycling.html) in November, 2012.
 
 ### Usage
 
 #### Data
+
 The [scrap tire recycling data](https://catalogue.data.gov.bc.ca/dataset?q=tire) data used for the indicator is available from the [BC Data Catalogue](https://catalogue.data.gov.bc.ca/dataset?download_audience=Public):
 
 - [BC FIRST Tire Recycling Data 1991-2006](https://catalogue.data.gov.bc.ca/dataset/a29ad492-29a2-44b9-8693-d27a8cc8e686) is available under the
