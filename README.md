@@ -17,7 +17,8 @@ The [scrap tire recycling data](https://catalogue.data.gov.bc.ca/dataset?q=tire)
 [Access Only](http://www2.gov.bc.ca/gov/content?id=1AAACC9C65754E4D89A118B875E0FBDA) license.
 
 
-####Code
+#### Code
+
 Most packages used in the analysis can be installed from CRAN using `install.packages()`, but you will need to install [envreportutils](https://github.com/bcgov/envreportutils) using devtools:
 
 
