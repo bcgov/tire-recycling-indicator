@@ -9,12 +9,12 @@ An R script to populate an indicator on Trends in B.C. Scrap Tire Recycling thro
 
 #### Data
 
-The [scrap tire recycling data](https://catalogue.data.gov.bc.ca/dataset?q=tire) data used for the indicator is available from the [BC Data Catalogue](https://catalogue.data.gov.bc.ca/dataset?download_audience=Public):
+The [scrap tire recycling data](https://catalogue.data.gov.bc.ca/dataset?q=tire) data used for the indicator is available from the [B.C. Data Catalogue](https://catalogue.data.gov.bc.ca/dataset?download_audience=Public):
 
 - [BC FIRST Tire Recycling Data 1991-2006](https://catalogue.data.gov.bc.ca/dataset/a29ad492-29a2-44b9-8693-d27a8cc8e686) is available under the
-[Open Government License - BC](http://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/databc/open-data/open-government-license-bc)
+[Open Government Licence - British Columbia](http://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/databc/open-data/open-government-license-bc)
 - [Tire Stewardship BC Tire Recycling Data](https://catalogue.data.gov.bc.ca/dataset/f791329b-c2dc-4f82-9993-209780f2a1c6) is available under the
-[Access Only](http://www2.gov.bc.ca/gov/content?id=1AAACC9C65754E4D89A118B875E0FBDA) license.
+[Access Only](http://www2.gov.bc.ca/gov/content?id=1AAACC9C65754E4D89A118B875E0FBDA) licence.
 
 
 #### Code
