@@ -68,6 +68,9 @@ chart <- ggplot() +
         legend.key.height=unit(2.2,"line"))
 plot(chart)
 
+## Create out folder if not already there
+if (!exists("out")) dir.create("out", showWarnings = FALSE)
+
 png(filename = "./out/tire_chart.png", width = 930, height = 550, units = "px", type = "cairo-png")
 plot(chart)
 dev.off()
