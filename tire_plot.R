@@ -71,6 +71,11 @@ plot(chart)
 ## Create out folder if not already there
 if (!exists("out")) dir.create("out", showWarnings = FALSE)
 
-png(filename = "./out/tire_chart.png", width = 930, height = 550, units = "px", type = "cairo-png")
+# png(filename = "./out/tire_chart.png", width = 930, height = 550, units = "px", type = "cairo-png")
+# plot(chart)
+# dev.off()
+
+## Render svg for quality graphics on retina and non-retina screens
+svg_px("./out/tire_chart.svg", width = 930, height = 550)
 plot(chart)
 dev.off()
